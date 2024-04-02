@@ -6,7 +6,6 @@
       <class name="vehicle.LaunchBajaj_Test"/>
       <class name="vehicle.LaunchKtm_Test"/>
       <class name="vehicle.LaunchPulsar_Test"/>
-      <class name="Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
